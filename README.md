@@ -1,3 +1,19 @@
+# Framework Battle Royale!
+
+Probando Angular, Next, Nuxt, SvelteKit, y Qwik.
+
+# Resultados NextJS 13 en máquina local, en incógnito, con Chrome Profiler
+
+- 1ms Loading
+- 26ms Scripting
+- 6ms Rendering
+- 0ms Painting
+- 10ms System
+- 5013ms Idle
+- 5056ms Total
+
+# Idea de [Gentleman Programming](https://github.com/Gentleman-Programming) - [Video](https://www.youtube.com/watch?v=hM8PvGZUwHU)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
