@@ -12,6 +12,13 @@ Probando Angular, Next, Nuxt, SvelteKit, y Qwik.
 - 5013ms Idle
 - 5056ms Total
 
+# Resultados Lighthouse report, mode: Navigation, Device: Mobile
+
+- 100 Performance
+- 100 Accessibility
+- 100 Best Practices
+- 100 SEO
+
 # Idea de [Gentleman Programming](https://github.com/Gentleman-Programming) - [Video](https://www.youtube.com/watch?v=hM8PvGZUwHU)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
