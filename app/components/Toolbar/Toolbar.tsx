@@ -15,7 +15,9 @@ function Toolbar() {
   return (
     <div>
       <div className={styles["toolbar-container"]}>
-        <p>Framework Battle Royale</p>
+        <p>
+          Framework Battle Royale: <strong>NextJS</strong>
+        </p>
         <GButton callBack={openDialog}>Open Dialog</GButton>
       </div>
       <GDialog>
